@@ -31,7 +31,7 @@ The layer as the name suggests hidden because when we see the real time applicat
 **Output Layer:**
 The input passes through hidden layer where processing happens and output is returned.
 
-![ANN](https://www.researchgate.net/publication/337533434/figure/fig1/AS:829406142550016@1574757242811/The-basic-ANN-architecture-Neuron-is-the-smallest-processing-component-of-the-ANN.jpg)
+![ANN](https://editor.analyticsvidhya.com/uploads/210362021-07-18%20(2).png)
 
 # _**How to Execute?**_
 So, before execution we have some pre-requisites that we need to download or install i.e., anaconda environment, python and a code editor.
@@ -107,7 +107,7 @@ Now you are ready to use jupyter on this environment and start with your project
 
 # _**Data Description**_
 The Dataset is collected form Kaggle Repository which contains 3168 Instances with 21 features. Some of the features which correlates better with the model.
-![Happy](https://media0.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
+![Dataset](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRyenVpbWdienphM2RtNnRxYzIxdjVxbHRpZ3FzMG8zbm9wYm84bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)
 
  # _**Issues Faced.**_
 1. We might face an issue while installing specific libraries.
