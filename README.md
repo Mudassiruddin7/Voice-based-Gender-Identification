@@ -107,7 +107,8 @@ Now you are ready to use jupyter on this environment and start with your project
 
 # _**Data Description**_
 The Dataset is collected form Kaggle Repository which contains 3168 Instances with 21 features. Some of the features which correlates better with the model.
-![Dataset](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXRyenVpbWdienphM2RtNnRxYzIxdjVxbHRpZ3FzMG8zbm9wYm84bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif)
+
+![Dataset](https://miro.medium.com/v2/resize:fit:1200/1*c8wR6BtKoF-kG5lqqcI7hA.gif)
 
  # _**Issues Faced.**_
 1. We might face an issue while installing specific libraries.
